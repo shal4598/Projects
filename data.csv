@@ -1,0 +1,115 @@
+SYMPTOM 1,SYMPTOM 2,SYMPTOM 3,DISEASE,TREATMENT
+Crumbling Nail,Pitting,"Change in color,Blood under the nails",Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Crumbling Nail,"Change in color,Blood under the nails",Pitting,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Crumbling Nail,Pitting,The nail separates from the bed,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Crumbling Nail,The nail separates from the bed,Pitting,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Crumbling Nail,"Change in color,Blood under the nails",The nail separates from the bed,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Crumbling Nail,The nail separates from the bed,"Change in color,Blood under the nails",Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Pitting,Crumbling Nail,"Change in color,Blood under the nails",Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Pitting,"Change in color,Blood under the nails",Crumbling Nail,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Pitting,Crumbling Nail,The nail separates from the bed,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Pitting,The nail separates from the bed,Crumbling Nail,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Pitting,"Change in color,Blood under the nails",The nail separates from the bed,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Pitting,The nail separates from the bed,"Change in color,Blood under the nails",Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+"Change in color,Blood under the nails",Crumbling Nail,Pitting,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+"Change in color,Blood under the nails",Pitting,Crumbling Nail,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+"Change in color,Blood under the nails",Crumbling Nail,The nail separates from the bed,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+"Change in color,Blood under the nails",The nail separates from the bed,Crumbling Nail,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+"Change in color,Blood under the nails",Pitting,The nail separates from the bed,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+"Change in color,Blood under the nails",The nail separates from the bed,Pitting,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+The nail separates from the bed,Pitting,Crumbling Nail,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+The nail separates from the bed,Crumbling Nail,Pitting,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+The nail separates from the bed,"Change in color,Blood under the nails",Crumbling Nail,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+The nail separates from the bed,Crumbling Nail,"Change in color,Blood under the nails",Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+The nail separates from the bed,Pitting,"Change in color,Blood under the nails",Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+The nail separates from the bed,"Change in color,Blood under the nails",Pitting,Nail psoriasis,"Strong Corticosteroids,injection of Corticosteroids and laser treatment"
+Nail breaks easily,Drying the nails,Typically affects only finger nail,Brittle Splitting Nails,Moisturizer
+Nail breaks easily,Affects both finger nail and toe nail,Typically affects only finger nail,Brittle Splitting Nails,Moisturizer
+Nail breaks easily,Affects both finger nail and toe nail,Drying the nails,Brittle Splitting Nails,Moisturizer
+Nail breaks easily,Drying the nails,Affects both finger nail and toe nail,Brittle Splitting Nails,Moisturizer
+Nail breaks easily,Typically affects only finger nail,Drying the nails,Brittle Splitting Nails,Moisturizer
+Nail breaks easily,Typically affects only finger nail,Affects both finger nail and toe nail,Brittle Splitting Nails,Moisturizer
+Affects both finger nail and toe nail,Nail breaks easily,Drying the nails,Brittle Splitting Nails,Moisturizer
+Affects both finger nail and toe nail,Drying the nails,Nail breaks easily,Brittle Splitting Nails,Moisturizer
+Affects both finger nail and toe nail,Nail breaks easily,Typically affects only finger nail,Brittle Splitting Nails,Moisturizer
+Affects both finger nail and toe nail,Typically affects only finger nail,Nail breaks easily,Brittle Splitting Nails,Moisturizer
+Affects both finger nail and toe nail,Drying the nails,Typically affects only finger nail,Brittle Splitting Nails,Moisturizer
+Affects both finger nail and toe nail,Typically affects only finger nail,Drying the nails,Brittle Splitting Nails,Moisturizer
+Drying the nails,Affects both finger nail and toe nail,Nail breaks easily,Brittle Splitting Nails,Moisturizer
+Drying the nails,Nail breaks easily,Affects both finger nail and toe nail,Brittle Splitting Nails,Moisturizer
+Drying the nails,Affects both finger nail and toe nail,Typically affects only finger nail,Brittle Splitting Nails,Moisturizer
+Drying the nails,Typically affects only finger nail,Affects both finger nail and toe nail,Brittle Splitting Nails,Moisturizer
+Drying the nails,Nail breaks easily,Typically affects only finger nail,Brittle Splitting Nails,Moisturizer
+Drying the nails,Typically affects only finger nail,Nail breaks easily,Brittle Splitting Nails,Moisturizer
+Typically affects only finger nail,Affects both finger nail and toe nail,Nail breaks easily,Brittle Splitting Nails,Moisturizer
+Typically affects only finger nail,Nail breaks easily,Affects both finger nail and toe nail,Brittle Splitting Nails,Moisturizer
+Typically affects only finger nail,Affects both finger nail and toe nail,Drying the nails,Brittle Splitting Nails,Moisturizer
+Typically affects only finger nail,Drying the nails,Affects both finger nail and toe nail,Brittle Splitting Nails,Moisturizer
+Typically affects only finger nail,Drying the nails,Nail breaks easily,Brittle Splitting Nails,Moisturizer
+Typically affects only finger nail,Nail breaks easily,Drying the nails,Brittle Splitting Nails,Moisturizer
+Thick Nail,"Discolored nail that are brown,yellow,white",Fragile and cracked nail,Nail Fungal Infection,Antifungal Medication
+Thick Nail,Fragile and cracked nail,"Discolored nail that are brown,yellow,white",Nail Fungal Infection,Antifungal Medication
+"Discolored nail that are brown,yellow,white",Fragile and cracked nail,Thick Nail,Nail Fungal Infection,Antifungal Medication
+"Discolored nail that are brown,yellow,white",Thick Nail,Fragile and cracked nail,Nail Fungal Infection,Antifungal Medication
+Fragile and cracked nail,"Discolored nail that are brown,yellow,white",Thick Nail,Nail Fungal Infection,Antifungal Medication
+Fragile and cracked nail,Thick Nail,"Discolored nail that are brown,yellow,white",Nail Fungal Infection,Antifungal Medication
+The nail separates from the bed,"Discoloration of nail yellow,green or opaque","Nail pitting,Nail thickening",Onycholysis,Treating psoriasis with oral
+The nail separates from the bed,"Nail pitting,Nail thickening","Discoloration of nail yellow,green or opaque",Onycholysis,Treating psoriasis with oral
+The nail separates from the bed,"Discoloration of nail yellow,green or opaque",Bending of nail edges,Onycholysis,Treating psoriasis with oral
+The nail separates from the bed,Bending of nail edges,"Discoloration of nail yellow,green or opaque",Onycholysis,Treating psoriasis with oral
+The nail separates from the bed,"Nail pitting,Nail thickening",Bending of nail edges,Onycholysis,Treating psoriasis with oral
+The nail separates from the bed,Bending of nail edges,"Nail pitting,Nail thickening",Onycholysis,Treating psoriasis with oral
+"Discoloration of nail yellow,green or opaque",The nail separates from the bed,"Nail pitting,Nail thickening",Onycholysis,Treating psoriasis with oral
+"Discoloration of nail yellow,green or opaque","Nail pitting,Nail thickening",The nail separates from the bed,Onycholysis,Treating psoriasis with oral
+"Discoloration of nail yellow,green or opaque",The nail separates from the bed,Bending of nail edges,Onycholysis,Treating psoriasis with oral
+"Discoloration of nail yellow,green or opaque",Bending of nail edges,The nail separates from the bed,Onycholysis,Treating psoriasis with oral
+"Discoloration of nail yellow,green or opaque","Nail pitting,Nail thickening",Bending of nail edges,Onycholysis,Treating psoriasis with oral
+"Discoloration of nail yellow,green or opaque",Bending of nail edges,"Nail pitting,Nail thickening",Onycholysis,Treating psoriasis with oral
+"Nail pitting,Nail thickening",The nail separates from the bed,"Discoloration of nail yellow,green or opaque",Onycholysis,Treating psoriasis with oral
+"Nail pitting,Nail thickening","Discoloration of nail yellow,green or opaque",The nail separates from the bed,Onycholysis,Treating psoriasis with oral
+"Nail pitting,Nail thickening",The nail separates from the bed,Bending of nail edges,Onycholysis,Treating psoriasis with oral
+"Nail pitting,Nail thickening",Bending of nail edges,The nail separates from the bed,Onycholysis,Treating psoriasis with oral
+"Nail pitting,Nail thickening","Discoloration of nail yellow,green or opaque",Bending of nail edges,Onycholysis,Treating psoriasis with oral
+"Nail pitting,Nail thickening",Bending of nail edges,"Discoloration of nail yellow,green or opaque",Onycholysis,Treating psoriasis with oral
+Bending of nail edges,"Discoloration of nail yellow,green or opaque",The nail separates from the bed,Onycholysis,Treating psoriasis with oral
+Bending of nail edges,The nail separates from the bed,"Discoloration of nail yellow,green or opaque",Onycholysis,Treating psoriasis with oral
+Bending of nail edges,"Nail pitting,Nail thickening",The nail separates from the bed,Onycholysis,Treating psoriasis with oral
+Bending of nail edges,The nail separates from the bed,"Nail pitting,Nail thickening",Onycholysis,Treating psoriasis with oral
+Bending of nail edges,"Discoloration of nail yellow,green or opaque","Nail pitting,Nail thickening",Onycholysis,Treating psoriasis with oral
+Bending of nail edges,"Nail pitting,Nail thickening","Discoloration of nail yellow,green or opaque",Onycholysis,Treating psoriasis with oral
+"Swelling,Tenderness","Redness,soreness",Pus,Ingrown Toenail,Surgery
+"Swelling,Tenderness",Pus,"Redness,soreness",Ingrown Toenail,Surgery
+"Redness,soreness",Pus,"Swelling,Tenderness",Ingrown Toenail,Surgery
+"Redness,soreness","Swelling,Tenderness",Pus,Ingrown Toenail,Surgery
+Pus,"Redness,soreness","Swelling,Tenderness",Ingrown Toenail,Surgery
+Pus,"Swelling,Tenderness","Redness,soreness",Ingrown Toenail,Surgery
+"Genetics,Injury",Circulation issues,Ichthyosis,Onychogryphosis,Podiatrist or Dermatologist
+"Genetics,Injury",Ichthyosis,Circulation issues,Onychogryphosis,Podiatrist or Dermatologist
+Circulation issues,Ichthyosis,"Genetics,Injury",Onychogryphosis,Podiatrist or Dermatologist
+Circulation issues,"Genetics,Injury",Ichthyosis,Onychogryphosis,Podiatrist or Dermatologist
+Ichthyosis,Circulation issues,"Genetics,Injury",Onychogryphosis,Podiatrist or Dermatologist
+Ichthyosis,"Genetics,Injury",Circulation issues,Onychogryphosis,Podiatrist or Dermatologist
+Swelling,"Pain,redness",Fever and gland pain,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Swelling,Fever and gland pain,"Pain,redness",Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Swelling,"Pain,redness",Yellow pus,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Swelling,Yellow pus,"Pain,redness",Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Swelling,Fever and gland pain,Yellow pus,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Swelling,Yellow pus,Fever and gland pain,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+"Pain,redness",Swelling,Fever and gland pain,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+"Pain,redness",Fever and gland pain,Swelling,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+"Pain,redness",Swelling,Yellow pus,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+"Pain,redness",Yellow pus,Swelling,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+"Pain,redness",Fever and gland pain,Yellow pus,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+"Pain,redness",Yellow pus,Fever and gland pain,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Fever and gland pain,Swelling,"Pain,redness",Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Fever and gland pain,"Pain,redness",Swelling,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Fever and gland pain,Swelling,Yellow pus,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Fever and gland pain,Yellow pus,Swelling,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Fever and gland pain,"Pain,redness",Yellow pus,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Fever and gland pain,Yellow pus,"Pain,redness",Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Yellow pus,"Pain,redness",Swelling,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Yellow pus,Swelling,"Pain,redness",Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Yellow pus,Fever and gland pain,Swelling,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Yellow pus,Swelling,Fever and gland pain,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Yellow pus,"Pain,redness",Fever and gland pain,Paronychia,"Tropical or oral antibiotics,corticosteroids"
+Yellow pus,Fever and gland pain,"Pain,redness",Paronychia,"Tropical or oral antibiotics,corticosteroids"
